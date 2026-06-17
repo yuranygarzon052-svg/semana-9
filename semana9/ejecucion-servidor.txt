@@ -1,0 +1,4 @@
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
